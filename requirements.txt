@@ -1,0 +1,18 @@
+# Investment Analyst Research Tool Dependencies
+
+# OpenAI API
+openai>=1.12.0
+
+# Web Framework
+streamlit>=1.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Data Validation
+pydantic>=2.6.0
+
+# Web Scraping (Layer 2)
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
